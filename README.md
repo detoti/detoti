@@ -34,6 +34,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>
   </div>
   
+  ---
+
+### :fire: My Stats :
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detoti)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 
