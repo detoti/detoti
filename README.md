@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/developer-web-dev-amaiadsgn-SQTSmiJl0uKoZNdv1T" width="100"/>
+  <img src="https://media.giphy.com/media/c5LfZJAwLQxXNKsJ9J/giphy.gif" width="100"/>
 </div>
 
 
