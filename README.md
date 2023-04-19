@@ -24,6 +24,7 @@
    
 - 🔭 I’m looking to work with iOS / Swift
 - 🌱 I’m always learning more about iOS / Swift
+- 🇧🇷 Brazilian currently living in São Paulo - SP
 - ⚡ Fun fact: My first degree was Architecture and Urbanism
   </div>
   ---
