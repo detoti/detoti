@@ -39,7 +39,8 @@
   ---
 
 ### :fire: My Stats :
-  [![detoti](https://github-readme-stats.vercel.app/api?username=detoti&show_icons=true)](https://github.com/detoti)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detoti&layout=compact)](https://github.com/detoti)
+
 
   
 </div>
