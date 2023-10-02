@@ -19,7 +19,7 @@
 
 ### :technologist: About Me :
   <div id="aboutMe" align="left">
-  I'm André Toti, a Systems Analysis and Development student, I’m passionate about mobile development, have been specializing in Swift. I'm committed to constant self-improvement and becoming a more comprehensive developer.
+  I'm André Toti, a Systems Development Analyst student, I’m passionate about mobile development, have been specializing in Swift. I'm committed to constant self-improvement and becoming a more comprehensive developer.
        
    
 - 🔭 I’m looking for work with iOS / Swift / C#
