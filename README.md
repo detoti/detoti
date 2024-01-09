@@ -19,13 +19,15 @@
 
 ### :technologist: About Me :
   <div id="aboutMe" align="left">
-  I'm André Toti, a Systems Development Analyst student, I’m passionate about mobile development, have been specializing in Swift. I'm committed to constant self-improvement and becoming a more comprehensive developer.
-       
-   
-- 🔭 I’m looking for work with iOS / Swift / C#
-- 🌱 I’m always learning more about iOS / Swift / C# / Development
-- 🇧🇷 Brazilian currently living in São Paulo - SP
-- ⚡ Fun fact: My first degree was Architecture and Urbanism
+  I'm André Toti, a dynamic front-end developer and results-driven leader, I bring a unique blend of creative design thinking and effective management skills to every project. Passioned about crafting cutting-edge solutions, my goal is not only meet but exceed expectations in the ever-evolving tech landscape.
+
+My career is being paved in the tech world shaped by diverse experiences, from architecting seamless mobile experiences to leading teams and driving innovation. I thrive on challenges, leveraging a dual role as both a visionary product manager and hands-on front-end engineer to ensure a cohesive and forward-thinking approach. This duality fosters a culture of continuous improvement and excellence in every project outcome.
+
+- 🔭 Working with React-Native, JavaScript, TypeScript, iOS, Swift, and C#
+- 🚀 Also, a Product Manager passionate about shaping innovative solutions
+- 🌱 Lifelong learner exploring a myriad of subjects
+- 🇧🇷 Brazilian currently residing in São Paulo, SP
+- ⚡ Fun fact: Earned a degree in Architecture and Urbanism before diving into tech
   </div>
   ---
 
@@ -44,10 +46,10 @@
   ---
 
 ### :fire: My Stats :
+<div id="topLangs">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detoti&layout=compact)](https://github.com/detoti)
+</div>
 
-
-  
 </div>
 
 
