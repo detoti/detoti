@@ -45,10 +45,8 @@ My career is being paved in the tech world shaped by diverse experiences, from a
   
   ---
 
-### :fire: My Stats :
-<div id="topLangs">
+### :fire: My Stats :">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detoti&layout=compact)](https://github.com/detoti)
-</div>
 
 </div>
 
