@@ -24,7 +24,7 @@
 My career is being paved in the tech world shaped by diverse experiences, from architecting seamless mobile experiences to leading teams and driving innovation. I thrive on challenges, leveraging a dual role as both a visionary product manager and hands-on front-end engineer to ensure a cohesive and forward-thinking approach. This duality fosters a culture of continuous improvement and excellence in every project outcome.
 
 - 🔭 Working with React-Native, JavaScript, TypeScript, iOS, Swift, and C#
-- 🚀 Also, a Product Manager passionate about shaping innovative solutions
+- 🚀 Also, a Project Manager passionate about shaping innovative solutions
 - 🌱 Lifelong learner exploring a myriad of subjects
 - 🇧🇷 Brazilian currently residing in São Paulo, SP
 - ⚡ Fun fact: Earned a degree in Architecture and Urbanism before diving into tech
